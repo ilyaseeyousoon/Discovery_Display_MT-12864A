@@ -1,0 +1,16 @@
+.\periph.o: user\src\periph.c
+.\periph.o: .\user\inc\init_main.h
+.\periph.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\periph.o: D:\2\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\periph.o: D:\2\ARM\ARMCC\Bin\..\include\stdint.h
+.\periph.o: D:\2\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h
+.\periph.o: D:\2\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h
+.\periph.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\periph.o: .\STM32F10x_StdPeriph_Driver\stm32f10x_conf.h
+.\periph.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\periph.o: .\user\inc\main.h
+.\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h

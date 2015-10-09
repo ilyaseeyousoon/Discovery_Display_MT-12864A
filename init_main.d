@@ -1,0 +1,17 @@
+.\init_main.o: user\src\init_main.c
+.\init_main.o: .\user\inc\init_main.h
+.\init_main.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\init_main.o: D:\2\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\init_main.o: D:\2\ARM\ARMCC\Bin\..\include\stdint.h
+.\init_main.o: D:\2\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h
+.\init_main.o: D:\2\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h
+.\init_main.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\init_main.o: .\STM32F10x_StdPeriph_Driver\stm32f10x_conf.h
+.\init_main.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\init_main.o: .\user\inc\main.h
+.\init_main.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\init_main.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\init_main.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\init_main.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\init_main.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\init_main.o: .\user\KS0108\font5x8.h
