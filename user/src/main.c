@@ -1,16 +1,10 @@
-#include <stm32f10x_conf.h>
-#include <stm32f10x_usart.h>
-#include <stm32f10x_rcc.h>
-#include <stm32f10x_gpio.h>
-#include "stm32f10x_adc.h"
-#include "stm32f10x_spi.h"
-#include "font5x8.h"
+#include "main.h"
 
 
 
 
 	uint32_t delay_count=0;	
-	uint32_t b,c,d,e,f,g,h, i, j, k,p=0;
+	uint32_t b,c,d,e,f,g, i, j, k,p=0;
 	uint16_t pos_x,pos_x=0;
 	uint8_t Receive_buf[256];
  unsigned char Buffer[50];	

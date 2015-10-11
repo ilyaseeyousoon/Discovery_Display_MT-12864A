@@ -14,3 +14,5 @@
 .\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
 .\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
 .\periph.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\periph.o: .\user\KS0108\font5x8.h
+.\periph.o: .\user\inc\periph.h
